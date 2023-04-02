@@ -1,3 +1,3 @@
 module "eks" {
-source = "./eks"    
+source = "Modules/eks"    
 }
